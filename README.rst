@@ -1,8 +1,7 @@
-Template for the Read the Docs tutorial
+Documentation test
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+https://snm-test-tutorial.readthedocs.io/en/latest/
 
 Read the tutorial here:
 
